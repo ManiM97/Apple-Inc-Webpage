@@ -1,0 +1,128 @@
+/* .home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+.project-heading {
+    font-size: 28px;
+    font-family: 'Roboto';
+}
+
+.company-project-page {
+    text-align: left;
+    width: 100%;
+}
+
+.company-name-two {
+    font-size: 30px;
+    font-family: 'Roboto';
+}
+
+.total-projects-container {
+    background-color: lightblue;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.total-projects {
+    font-size: 20px;
+    padding: 10px;
+}
+.company-image{
+    height: 70vh;
+    border-radius: 9px;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* .project-details-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+.ongoing-container-project {
+    width: 25%;
+    background-color: lightslategray;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+   padding: 10px;
+}
+
+.completed-container-project {
+    width: 25%;
+    background-color: lightgreen;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.upcoming-container-project {
+    width: 25%;
+    background-color: lightcoral;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.heading {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+.count{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* .description-para{
+    padding: 100px;
+} */
+.project-alignment-page{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.description-para {
+    font-size: 20px;
+    font-family: 'Roboto';
+}
+
+@media screen and (min-width:768px) {
+    .project-alignment {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .project-alignment-page {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .ongoing-container-project{
+        margin: 8px;
+    }
+    .completed-container-project{
+        margin: 8px;
+    }
+    .upcoming-container-project{
+        margin: 8px;
+    }
+    .company-image{
+        height: 50vh;
+    }
+}

@@ -1,0 +1,82 @@
+/* .home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+.about-us-heading{
+    font-family: 'Roboto';
+    text-align: center;
+}
+.about-image{
+    width: 100%;
+}
+.company-projects{
+    text-align: left;
+    width: 89%;
+}
+.total-projects-container{
+    background-color: lightblue;
+    border-radius: 5px;
+    width: 250px;
+}
+.total-projects{
+    font-size: 25px;
+    padding: 10px;
+}
+.para{
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+.project-details-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ongoing-container{
+    height: 130px;
+    width: 150px;
+    background-color: lightslategray;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+}
+.completed-container{
+    height: 130px;
+    width: 150px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+}
+.upcoming-container{
+    height: 130px;
+    width: 150px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+}
+.heading{
+    font-size: 28px;
+    font-family: 'Roboto';
+}
+/* .description-para{
+    padding: 100px;
+} */
+.project-alignment{
+    display: flex;
+    flex-direction: column;
+}
+.description-para{
+    font-size: 20px;
+    font-family: 'Roboto';
+}
+@media screen and (min-width:768px) {
+    .project-alignment{
+        display: flex;
+        flex-direction: row;
+    }
+}

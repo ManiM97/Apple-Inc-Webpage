@@ -1,0 +1,75 @@
+{
+    "iphones": [
+      {
+        "type": "iPhone 13 Pro",
+        "specifications": {
+          "display": "6.1-inch Super Retina XDR",
+          "processor": "A15 Bionic",
+          "storage": "128GB / 256GB / 512GB / 1TB",
+          "camera": "Triple 12MP Ultra Wide, Wide, and Telephoto cameras",
+          "os": "iOS 15"
+        },
+        "description": "The iPhone 13 Pro features a stunning Super Retina XDR display, powerful A15 Bionic chip, and advanced camera system.",
+        "price": "$999",
+        "ratings": "4.8",
+        "image": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/a/e/g/iphone-13-pro-mlvw3hn-a-apple-original-imag6vpcvspnzyfy.jpeg?q=70"
+      },
+      {
+        "type": "iPhone 13",
+        "specifications": {
+          "display": "6.1-inch Liquid Retina",
+          "processor": "A15 Bionic",
+          "storage": "128GB / 256GB / 512GB",
+          "camera": "Dual 12MP Ultra Wide and Wide cameras",
+          "os": "iOS 15"
+        },
+        "description": "The iPhone 13 features a sleek design, powerful A15 Bionic chip, and impressive camera capabilities.",
+        "price": "$799",
+        "ratings": "4.7",
+        "image": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg?q=70"
+      },
+      {
+        "type": "iPhone 13 mini",
+        "specifications": {
+          "display": "5.4-inch Liquid Retina",
+          "processor": "A15 Bionic",
+          "storage": "64GB / 128GB / 256GB",
+          "camera": "Dual 12MP Ultra Wide and Wide cameras",
+          "os": "iOS 15"
+        },
+        "description": "The iPhone 13 mini packs big features in a compact size, including a powerful A15 Bionic chip and impressive camera system.",
+        "price": "$699",
+        "ratings": "4.6",
+        "image": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/i/q/p/iphone-13-mini-mlke3hn-a-apple-original-imag6vp6abdxzuh8.jpeg?q=70"
+      },
+      {
+        "type": "iPhone 12 Pro",
+        "specifications": {
+          "display": "6.1-inch Super Retina XDR",
+          "processor": "A14 Bionic",
+          "storage": "128GB / 256GB / 512GB",
+          "camera": "Triple 12MP Ultra Wide, Wide, and Telephoto cameras",
+          "os": "iOS 14"
+        },
+        "description": "The iPhone 12 Pro offers exceptional performance and photography capabilities with its advanced camera setup.",
+        "price": "$999",
+        "ratings": "4.7",
+        "image": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/g/z/c/apple-iphone-12-pro-max-dummyapplefsn-original-imafwgcyyemh9hbg.jpeg?q=70"
+      },
+      {
+        "type": "iPhone 12",
+        "specifications": {
+          "display": "6.1-inch Super Retina XDR",
+          "processor": "A14 Bionic",
+          "storage": "64GB / 128GB / 256GB",
+          "camera": "Dual 12MP Ultra Wide and Wide cameras",
+          "os": "iOS 14"
+        },
+        "description": "The iPhone 12 combines style and performance, featuring a powerful A14 Bionic chip and impressive dual-camera system.",
+        "price": "$799",
+        "ratings": "4.6",
+        "image": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/r/h/z/apple-iphone-12-dummyapplefsn-original-imafwg8duby8qbn4.jpeg?q=70"
+      }
+    ]
+  }
+  
