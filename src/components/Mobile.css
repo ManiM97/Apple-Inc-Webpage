@@ -29,8 +29,6 @@
     background-color: #388e3c;
     width: 50px;
 }
-
-
 @media screen and (min-width:768px) {
     .product-container{
         display: flex;

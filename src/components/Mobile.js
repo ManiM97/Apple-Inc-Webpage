@@ -15,9 +15,7 @@ function Mobile() {
         <div className='col-12'>
           <h1>Product List</h1>
         </div>
-        <div className='col-12'>
-
-
+        <div className='movie-list'>
           <ul>
             {mobiles.map((mobile, index) => (
               <li style={{ listStyleType: 'none' }} key={index}>

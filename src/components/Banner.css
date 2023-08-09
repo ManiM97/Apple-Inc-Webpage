@@ -2,9 +2,6 @@
     font-family: 'Roboto';
     text-align: center;
 }
-.about-image{
-    width: 100%;
-}
 .company-projects{
     text-align: left;
     width: 89%;
@@ -28,6 +25,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.project-alignment{
+    display: flex;
+    flex-direction: column;
 }
 .ongoing-container{
     height: 130px;
@@ -56,21 +57,4 @@
 .heading{
     font-size: 28px;
     font-family: 'Roboto';
-}
-/* .description-para{
-    padding: 100px;
-} */
-.project-alignment{
-    display: flex;
-    flex-direction: column;
-}
-.description-para{
-    font-size: 20px;
-    font-family: 'Roboto';
-}
-@media screen and (min-width:768px) {
-    .project-alignment{
-        display: flex;
-        flex-direction: row;
-    }
 }

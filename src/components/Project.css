@@ -1,9 +1,3 @@
-/* .home-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-} */
 .project-heading {
     font-size: 28px;
     font-family: 'Roboto';
@@ -39,14 +33,6 @@
     font-weight: 600;
     text-align: center;
 }
-
-/* .project-details-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-} */
-
 .ongoing-container-project {
     width: 25%;
     background-color: lightslategray;
